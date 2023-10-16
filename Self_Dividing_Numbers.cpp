@@ -5,8 +5,7 @@ A self-dividing number is not allowed to contain the digit zero.
 
 Given two integers left and right, return a list of all the self-dividing numbers in the range [left, right].
 
- #include <vector>
-
+#include <vector>
 class Solution {
 public:
     std::vector<int> selfDividingNumbers(int left, int right) {
