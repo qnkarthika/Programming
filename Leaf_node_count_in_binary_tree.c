@@ -1,3 +1,5 @@
+1.Counting the number of leave nodes in binary tree in c
+
 #include<stdio.h>
 #include<stdlib.h>
 int front=-1;
